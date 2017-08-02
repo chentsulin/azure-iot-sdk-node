@@ -1,4 +1,4 @@
-#azure-iot-device-mqtt
+# azure-iot-device-mqtt
 Communicate with Azure IoT Hub from any device over MQTT.
 
 [![npm version](https://badge.fury.io/js/azure-iot-device-mqtt.svg)](https://badge.fury.io/js/azure-iot-device-mqtt)
